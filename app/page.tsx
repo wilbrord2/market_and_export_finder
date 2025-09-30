@@ -31,15 +31,13 @@ function Home() {
 
   useEffect(() => {
     setResults([]);
-    setCountryFilter('All')
+    setCountryFilter("All");
   }, [query]);
-
 
   const countries = [
     "All",
     ...new Set(results.map((r) => r.export_to).filter(Boolean)),
   ];
-
 
   let filteredResults = results;
   if (countryFilter !== "All") {
@@ -48,13 +46,11 @@ function Home() {
     );
   }
 
-
   filteredResults = [...filteredResults].sort((a, b) => {
     const priceA = Number(a.net_price);
     const priceB = Number(b.net_price);
     return sortOrder === "asc" ? priceA - priceB : priceB - priceA;
   });
-
 
   const indexOfLastItem = currentPage * itemsPerPage;
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;
@@ -62,7 +58,7 @@ function Home() {
   const totalPages = Math.ceil(filteredResults.length / itemsPerPage);
 
   return (
-    <div className="relative flex flex-col items-center justify-center space-y-8 w-full min-h-screen bg-gray-50">
+    <div className="relative flex flex-col items-center justify-center space-y-8 w-full min-h-screen bg-gray-50 px-4">
       {/* Header */}
       <div className="flex flex-col items-center justify-center w-full max-w-4xl space-y-2">
         <h1 className="text-4xl font-bold text-center text-green-800">
@@ -81,7 +77,7 @@ function Home() {
             onKeyDown={(e) => {
               if (e.key === "Enter") {
                 e.preventDefault();
-                handleSearch(query); 
+                handleSearch(query);
               }
             }}
             onChange={(e) => setQuery(e.target.value)}
@@ -99,7 +95,7 @@ function Home() {
 
       {/* Filters */}
       {results.length > 0 && (
-        <div className="flex gap-4 items-center w-full max-w-6xl">
+        <div className="flex gap-4 flex-wrap items-center w-full max-w-6xl">
           {/* Country Filter */}
           <select
             value={countryFilter}
@@ -107,7 +103,7 @@ function Home() {
               setCountryFilter(e.target.value);
               setCurrentPage(1);
             }}
-            className="border p-2 rounded shadow-sm"
+            className="border border-green-600 p-2 rounded shadow-sm"
           >
             {countries.map((c, i) => (
               <option key={i} value={c}>
@@ -180,7 +176,7 @@ function Home() {
 
           {/* Pagination */}
           {totalPages > 1 && (
-            <div className="flex justify-center items-center gap-2 p-4">
+            <div className="flex justify-center items-center flex-wrap gap-2 p-4">
               <button
                 onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
                 disabled={currentPage === 1}
@@ -222,11 +218,11 @@ function Home() {
       )}
 
       {/* Support Links */}
-      <div className="flex items-center justify-center shadow p-4 rounded space-x-4 w-full max-w-fit mx-auto">
+      <div className="flex items-center justify-center flex-wrap shadow p-4 rounded space-x-4 w-full max-w-fit mx-auto">
         <h1 className="text-green-700 font-bold border-r-3 pr-4 border-r-green-600">
           Support Links
         </h1>
-        <div className="flex items-center justify-evenly gap-4 text-sm">
+        <div className="flex items-center flex-wrap justify-evenly gap-4 text-sm">
           {QuickLinks.map((item, idx) => (
             <Link
               key={idx}
