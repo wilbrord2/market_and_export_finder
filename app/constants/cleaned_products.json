@@ -1,0 +1,3740 @@
+[
+  {
+    "company_name":"ABCD GREAT LIFE Ltd",
+    "product":"Chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":25795
+  },
+  {
+    "company_name":"ACC EXPORT Ltd",
+    "product":"Flowers",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":10860
+  },
+  {
+    "company_name":"Agrilec Limited",
+    "product":"French Beans",
+    "export_to":"France",
+    "website":null,
+    "net_price":86820
+  },
+  {
+    "company_name":"Agrilec Limited",
+    "product":"French Beans",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":64886
+  },
+  {
+    "company_name":"Agrilec Limited",
+    "product":"French Beans",
+    "export_to":"Congo Brazzaville",
+    "website":null,
+    "net_price":16265
+  },
+  {
+    "company_name":"Agrilec Limited",
+    "product":"French Beans",
+    "export_to":"E.U",
+    "website":null,
+    "net_price":92386
+  },
+  {
+    "company_name":"Agrilec Limited",
+    "product":"French Beans",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":47194
+  },
+  {
+    "company_name":"Agri Solution Ltd",
+    "product":"Avocado",
+    "export_to":"France",
+    "website":null,
+    "net_price":97498
+  },
+  {
+    "company_name":"Agri Solution Ltd",
+    "product":"Passion fruits",
+    "export_to":"France",
+    "website":null,
+    "net_price":54131
+  },
+  {
+    "company_name":"ALMOND GREEN FARM Ltd",
+    "product":"Pepper",
+    "export_to":"UK",
+    "website":null,
+    "net_price":70263
+  },
+  {
+    "company_name":"AN Hinga ltd",
+    "product":"French Beans",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":26023
+  },
+  {
+    "company_name":"AN Hinga ltd",
+    "product":"French Beans",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":51090
+  },
+  {
+    "company_name":"AN Hinga ltd",
+    "product":"French Beans",
+    "export_to":"Middle East",
+    "website":null,
+    "net_price":77221
+  },
+  {
+    "company_name":"AN Hinga ltd",
+    "product":"Chilli",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":74820
+  },
+  {
+    "company_name":"AN Hinga ltd",
+    "product":"Chilli",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":10769
+  },
+  {
+    "company_name":"AN Hinga ltd",
+    "product":"Chilli",
+    "export_to":"Middle East",
+    "website":null,
+    "net_price":69735
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"Hot pepper (chilli)",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":72955
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"Hot pepper (chilli)",
+    "export_to":"United Arab Emirates ( UAE)",
+    "website":null,
+    "net_price":74925
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"Hot pepper (chilli)",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":77969
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"French beans",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":15311
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"French beans",
+    "export_to":"United Arab Emirates ( UAE)",
+    "website":null,
+    "net_price":93104
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"French beans",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":63707
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"CookingBanana",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":95305
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"CookingBanana",
+    "export_to":"United Arab Emirates ( UAE)",
+    "website":null,
+    "net_price":38693
+  },
+  {
+    "company_name":"Bahage Food Ltd",
+    "product":"CookingBanana",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":81932
+  },
+  {
+    "company_name":"BRIGHT HARVEST",
+    "product":"Fresh Cut Flowers",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":35658
+  },
+  {
+    "company_name":"CF PREMIUM COMPANY LTD",
+    "product":"chili",
+    "export_to":null,
+    "website":null,
+    "net_price":94478
+  },
+  {
+    "company_name":"Crinnod Ltd",
+    "product":"Hot pepper",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":28431
+  },
+  {
+    "company_name":"Crinnod Ltd",
+    "product":"Hot pepper",
+    "export_to":"UK",
+    "website":null,
+    "net_price":12747
+  },
+  {
+    "company_name":"Crinnod Ltd",
+    "product":"Green Chilli",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":69150
+  },
+  {
+    "company_name":"Crinnod Ltd",
+    "product":"Green Chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":75725
+  },
+  {
+    "company_name":"DALSO INVESTMENT & DALSO CLEARING AGENCY",
+    "product":"Flowers",
+    "export_to":null,
+    "website":null,
+    "net_price":94654
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"Chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":45773
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"Chilli",
+    "export_to":"DUBAI",
+    "website":null,
+    "net_price":77435
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"Chilli",
+    "export_to":"NETHERLANDS",
+    "website":null,
+    "net_price":66886
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"Chilli",
+    "export_to":"BELGIUM",
+    "website":null,
+    "net_price":76803
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"hot pepper",
+    "export_to":"UK",
+    "website":null,
+    "net_price":41551
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"hot pepper",
+    "export_to":"DUBAI",
+    "website":null,
+    "net_price":21394
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"hot pepper",
+    "export_to":"NETHERLANDS",
+    "website":null,
+    "net_price":79092
+  },
+  {
+    "company_name":"Diversity Ventures",
+    "product":"hot pepper",
+    "export_to":"BELGIUM",
+    "website":null,
+    "net_price":13890
+  },
+  {
+    "company_name":"Effective M and N Limited",
+    "product":"French beans",
+    "export_to":"UK",
+    "website":null,
+    "net_price":51606
+  },
+  {
+    "company_name":"Effective M and N Limited",
+    "product":"French beans",
+    "export_to":"France",
+    "website":null,
+    "net_price":90038
+  },
+  {
+    "company_name":"Effective M and N Limited",
+    "product":"Green chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":97313
+  },
+  {
+    "company_name":"Effective M and N Limited",
+    "product":"Green chilli",
+    "export_to":"France",
+    "website":null,
+    "net_price":20627
+  },
+  {
+    "company_name":"Effective M and N Limited",
+    "product":null,
+    "export_to":"UK",
+    "website":null,
+    "net_price":18792
+  },
+  {
+    "company_name":"Effective M and N Limited",
+    "product":null,
+    "export_to":"France",
+    "website":null,
+    "net_price":83969
+  },
+  {
+    "company_name":"Esline Food Ltd",
+    "product":"Avocado",
+    "export_to":"United Arab Emirates",
+    "website":null,
+    "net_price":53001
+  },
+  {
+    "company_name":"Esline Food Ltd",
+    "product":"Avocado",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":86552
+  },
+  {
+    "company_name":"Esline Food Ltd",
+    "product":"Avocado",
+    "export_to":"France",
+    "website":null,
+    "net_price":33897
+  },
+  {
+    "company_name":"Esline Food Ltd",
+    "product":"passion fruits",
+    "export_to":"United Arab Emirates",
+    "website":null,
+    "net_price":78148
+  },
+  {
+    "company_name":"Esline Food Ltd",
+    "product":"passion fruits",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":33483
+  },
+  {
+    "company_name":"Esline Food Ltd",
+    "product":"passion fruits",
+    "export_to":"France",
+    "website":null,
+    "net_price":58555
+  },
+  {
+    "company_name":"Excella Produce Limited",
+    "product":"French beans",
+    "export_to":"EU",
+    "website":null,
+    "net_price":27159
+  },
+  {
+    "company_name":"Excella Produce Limited",
+    "product":"French beans",
+    "export_to":"UK",
+    "website":null,
+    "net_price":90077
+  },
+  {
+    "company_name":"Excella Produce Limited",
+    "product":"French beans",
+    "export_to":"Middle East",
+    "website":null,
+    "net_price":45920
+  },
+  {
+    "company_name":"Excella Produce Limited",
+    "product":"chilli",
+    "export_to":"EU",
+    "website":null,
+    "net_price":77121
+  },
+  {
+    "company_name":"Excella Produce Limited",
+    "product":"chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":79479
+  },
+  {
+    "company_name":"Excella Produce Limited",
+    "product":"chilli",
+    "export_to":"Middle East",
+    "website":null,
+    "net_price":99475
+  },
+  {
+    "company_name":"FLORAMATT LTD",
+    "product":"Fresh Cut Flowers",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":29457
+  },
+  {
+    "company_name":"Floris",
+    "product":"Pepper",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":76557
+  },
+  {
+    "company_name":"Floris",
+    "product":"Pepper",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":87189
+  },
+  {
+    "company_name":"Floris",
+    "product":"banana dessert",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":88953
+  },
+  {
+    "company_name":"Floris",
+    "product":"banana dessert",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":62995
+  },
+  {
+    "company_name":"Floris",
+    "product":"Avocado",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":50757
+  },
+  {
+    "company_name":"Floris",
+    "product":"Avocado",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":19692
+  },
+  {
+    "company_name":"Floris",
+    "product":"hot pepper",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":55758
+  },
+  {
+    "company_name":"Floris",
+    "product":"hot pepper",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":82409
+  },
+  {
+    "company_name":"Fluflo Co Ltd",
+    "product":"Avocado",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":81211
+  },
+  {
+    "company_name":"Fluflo Co Ltd",
+    "product":"passion fruits",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":75697
+  },
+  {
+    "company_name":"Fluveg",
+    "product":"Chilli",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":47065
+  },
+  {
+    "company_name":"Fluveg",
+    "product":"Chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":42606
+  },
+  {
+    "company_name":"Fluveg",
+    "product":"French beans",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":21534
+  },
+  {
+    "company_name":"Fluveg",
+    "product":"French beans",
+    "export_to":"UK",
+    "website":null,
+    "net_price":50397
+  },
+  {
+    "company_name":"Fluveg",
+    "product":"cooking banana",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":11016
+  },
+  {
+    "company_name":"Fluveg",
+    "product":"cooking banana",
+    "export_to":"UK",
+    "website":null,
+    "net_price":99789
+  },
+  {
+    "company_name":"Freshpak international",
+    "product":"Eggplant",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":65591
+  },
+  {
+    "company_name":"Freshpak international",
+    "product":"Eggplant",
+    "export_to":"UK",
+    "website":null,
+    "net_price":99812
+  },
+  {
+    "company_name":"Freshpak international",
+    "product":"pepper and Banana",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":33247
+  },
+  {
+    "company_name":"Freshpak international",
+    "product":"pepper and Banana",
+    "export_to":"UK",
+    "website":null,
+    "net_price":34300
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"French beans",
+    "export_to":"UK",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":84065
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"French beans",
+    "export_to":"Netherlands",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":92798
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"French beans",
+    "export_to":"Belgium",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":19268
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"broccoli",
+    "export_to":"UK",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":96807
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"broccoli",
+    "export_to":"Netherlands",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":22185
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"broccoli",
+    "export_to":"Belgium",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":73704
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"baby corn",
+    "export_to":"UK",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":96779
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"baby corn",
+    "export_to":"Netherlands",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":49099
+  },
+  {
+    "company_name":"Garden Fresh ltd",
+    "product":"baby corn",
+    "export_to":"Belgium",
+    "website":"www.gardenfreshrwanda.com",
+    "net_price":18571
+  },
+  {
+    "company_name":"Gashora Farm",
+    "product":"Chilli (Processed &Fresh Chilli)",
+    "export_to":"China",
+    "website":null,
+    "net_price":48044
+  },
+  {
+    "company_name":"Gashora Farm",
+    "product":"Chilli (Processed &Fresh Chilli)",
+    "export_to":"UK Netherlands",
+    "website":null,
+    "net_price":61214
+  },
+  {
+    "company_name":"Gashora Farm",
+    "product":"Chilli (Processed &Fresh Chilli)",
+    "export_to":"Nigeria",
+    "website":null,
+    "net_price":71228
+  },
+  {
+    "company_name":"Global Farmers Ltd",
+    "product":"Mango",
+    "export_to":"Regional Market",
+    "website":null,
+    "net_price":58984
+  },
+  {
+    "company_name":"KAB Fresh",
+    "product":"Chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":50774
+  },
+  {
+    "company_name":"KIGALI FARMS LTD",
+    "product":"Mushrooms",
+    "export_to":"Kenya",
+    "website":"www.kigalifarms.com",
+    "net_price":12568
+  },
+  {
+    "company_name":"KIGALI FARMS LTD",
+    "product":"Mushrooms",
+    "export_to":"Tanzania",
+    "website":"www.kigalifarms.com",
+    "net_price":72592
+  },
+  {
+    "company_name":"KIGALI FARMS LTD",
+    "product":"Mushrooms",
+    "export_to":"Uganda",
+    "website":"www.kigalifarms.com",
+    "net_price":77563
+  },
+  {
+    "company_name":"KK Foods",
+    "product":"Sugar Snaps",
+    "export_to":"UK",
+    "website":"www.kkfoods.co",
+    "net_price":12695
+  },
+  {
+    "company_name":"KK Foods",
+    "product":"Karella and French Beans",
+    "export_to":"UK",
+    "website":"www.kkfoods.co",
+    "net_price":58190
+  },
+  {
+    "company_name":"LA PERVENCHE",
+    "product":"Hibiscus",
+    "export_to":null,
+    "website":null,
+    "net_price":15258
+  },
+  {
+    "company_name":"Le Geant Business Group Ltd",
+    "product":"Onion",
+    "export_to":"UAE",
+    "website":null,
+    "net_price":97538
+  },
+  {
+    "company_name":"Le Geant Business Group Ltd",
+    "product":"Onion",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":49504
+  },
+  {
+    "company_name":"Le Geant Business Group Ltd",
+    "product":"carrots",
+    "export_to":"UAE",
+    "website":null,
+    "net_price":43159
+  },
+  {
+    "company_name":"Le Geant Business Group Ltd",
+    "product":"carrots",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":23986
+  },
+  {
+    "company_name":"Lotec Rwanda Ltd",
+    "product":"Sugar Snaps",
+    "export_to":"UK",
+    "website":null,
+    "net_price":71858
+  },
+  {
+    "company_name":"Lotec Rwanda Ltd",
+    "product":"French beans",
+    "export_to":"UK",
+    "website":null,
+    "net_price":22666
+  },
+  {
+    "company_name":"MACRO KIGALI TRADING COMPANY LTD",
+    "product":"Fresh Cut Flowers",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":48660
+  },
+  {
+    "company_name":"NATURE CLOUDS FRESH PRODUCE Ltd",
+    "product":"Moringa leaves and seeds",
+    "export_to":"UK",
+    "website":null,
+    "net_price":13561
+  },
+  {
+    "company_name":"NATURE FRESH FOODS LTD",
+    "product":"Fresh Vegetables",
+    "export_to":"UK",
+    "website":null,
+    "net_price":36854
+  },
+  {
+    "company_name":"Oasis Growers",
+    "product":"French beans",
+    "export_to":null,
+    "website":null,
+    "net_price":74505
+  },
+  {
+    "company_name":"PEBEC",
+    "product":"Bird eye chilies",
+    "export_to":"India",
+    "website":null,
+    "net_price":62251
+  },
+  {
+    "company_name":"PEBEC",
+    "product":"Bird eye chilies",
+    "export_to":"Spain",
+    "website":null,
+    "net_price":32662
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"Extra fine beans",
+    "export_to":"France",
+    "website":"www.proxifresh.com",
+    "net_price":18392
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"Extra fine beans",
+    "export_to":"Mauritius",
+    "website":"www.proxifresh.com",
+    "net_price":40535
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"Extra fine beans",
+    "export_to":"South Africa",
+    "website":"www.proxifresh.com",
+    "net_price":88603
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"snow peas",
+    "export_to":"France",
+    "website":"www.proxifresh.com",
+    "net_price":62256
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"snow peas",
+    "export_to":"Mauritius",
+    "website":"www.proxifresh.com",
+    "net_price":99135
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"snow peas",
+    "export_to":"South Africa",
+    "website":"www.proxifresh.com",
+    "net_price":45222
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"sugar snaps and passion fruits",
+    "export_to":"France",
+    "website":"www.proxifresh.com",
+    "net_price":87373
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"sugar snaps and passion fruits",
+    "export_to":"Mauritius",
+    "website":"www.proxifresh.com",
+    "net_price":89575
+  },
+  {
+    "company_name":"Proxi fresh",
+    "product":"sugar snaps and passion fruits",
+    "export_to":"South Africa",
+    "website":"www.proxifresh.com",
+    "net_price":94651
+  },
+  {
+    "company_name":"Safi Price Ltd",
+    "product":"Tamarillo",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":73335
+  },
+  {
+    "company_name":"Safi Price Ltd",
+    "product":"Tamarillo",
+    "export_to":"UAE (GREEN ORAGE)",
+    "website":null,
+    "net_price":20965
+  },
+  {
+    "company_name":"Safi Price Ltd",
+    "product":"Avocado",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":34538
+  },
+  {
+    "company_name":"Safi Price Ltd",
+    "product":"Avocado",
+    "export_to":"UAE (GREEN ORAGE)",
+    "website":null,
+    "net_price":80592
+  },
+  {
+    "company_name":"Safi Price Ltd",
+    "product":"Apple banana",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":18110
+  },
+  {
+    "company_name":"Safi Price Ltd",
+    "product":"Apple banana",
+    "export_to":"UAE (GREEN ORAGE)",
+    "website":null,
+    "net_price":89309
+  },
+  {
+    "company_name":"SOUK Investment",
+    "product":"French beans",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":37266
+  },
+  {
+    "company_name":"SOUK Investment",
+    "product":"French beans",
+    "export_to":"India",
+    "website":null,
+    "net_price":62992
+  },
+  {
+    "company_name":"SOUK Investment",
+    "product":"Chilli",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":92948
+  },
+  {
+    "company_name":"SOUK Investment",
+    "product":"Chilli",
+    "export_to":"India",
+    "website":null,
+    "net_price":16910
+  },
+  {
+    "company_name":"Sun Fresh Ltd",
+    "product":"Chillis",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":10206
+  },
+  {
+    "company_name":"Sun Fresh Ltd",
+    "product":"Chillis",
+    "export_to":"UK and India",
+    "website":null,
+    "net_price":97054
+  },
+  {
+    "company_name":"Sun Fresh Ltd",
+    "product":"French beans",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":97897
+  },
+  {
+    "company_name":"Sun Fresh Ltd",
+    "product":"French beans",
+    "export_to":"UK and India",
+    "website":null,
+    "net_price":33419
+  },
+  {
+    "company_name":"Sun Fresh Ltd",
+    "product":"baby corn broccoli",
+    "export_to":"Netherlands",
+    "website":null,
+    "net_price":60636
+  },
+  {
+    "company_name":"Sun Fresh Ltd",
+    "product":"baby corn broccoli",
+    "export_to":"UK and India",
+    "website":null,
+    "net_price":60015
+  },
+  {
+    "company_name":"TEAM AFRICA Limited",
+    "product":"Hot Pepper",
+    "export_to":"UK",
+    "website":null,
+    "net_price":64268
+  },
+  {
+    "company_name":"The STEP Company",
+    "product":"Onions",
+    "export_to":"Congo Brazzaville",
+    "website":null,
+    "net_price":97939
+  },
+  {
+    "company_name":"The STEP Company",
+    "product":"Onions",
+    "export_to":"Congo Kinshasa",
+    "website":null,
+    "net_price":28141
+  },
+  {
+    "company_name":"The STEP Company",
+    "product":"carrots",
+    "export_to":"Congo Brazzaville",
+    "website":null,
+    "net_price":90356
+  },
+  {
+    "company_name":"The STEP Company",
+    "product":"carrots",
+    "export_to":"Congo Kinshasa",
+    "website":null,
+    "net_price":81910
+  },
+  {
+    "company_name":"TRANSCOM Ltd",
+    "product":"Chili",
+    "export_to":"India",
+    "website":null,
+    "net_price":66044
+  },
+  {
+    "company_name":"Veggie Fresh",
+    "product":"Chilli",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":77214
+  },
+  {
+    "company_name":"Veggie Fresh",
+    "product":"Chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":43827
+  },
+  {
+    "company_name":"Veggie Fresh",
+    "product":"Chilli",
+    "export_to":"NETHERLANDS",
+    "website":null,
+    "net_price":65820
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"UK",
+    "website":null,
+    "net_price":72623
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"German",
+    "website":null,
+    "net_price":91734
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"Spain",
+    "website":null,
+    "net_price":85450
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"France",
+    "website":null,
+    "net_price":32299
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"USA",
+    "website":null,
+    "net_price":53585
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"Canada",
+    "website":null,
+    "net_price":74044
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"UAE",
+    "website":null,
+    "net_price":52557
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"Qatar",
+    "website":null,
+    "net_price":59080
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"Saudi Arabia",
+    "website":null,
+    "net_price":12693
+  },
+  {
+    "company_name":"Virunga Biotech Limited",
+    "product":"Green chilli",
+    "export_to":"India",
+    "website":null,
+    "net_price":79163
+  },
+  {
+    "company_name":"WOMEN IMPORT AND EXPORT NETWORK",
+    "product":"fruits",
+    "export_to":null,
+    "website":null,
+    "net_price":35939
+  },
+  {
+    "company_name":"WOMEN IMPORT AND EXPORT NETWORK",
+    "product":"vegetables",
+    "export_to":null,
+    "website":null,
+    "net_price":58925
+  },
+  {
+    "company_name":"KINVEST FARM COMPANY LTD",
+    "product":"Avocado",
+    "export_to":"Middle East and Europe",
+    "website":null,
+    "net_price":52941
+  },
+  {
+    "company_name":"KINVEST FARM COMPANY LTD",
+    "product":"Passion fruits",
+    "export_to":"Middle East and Europe",
+    "website":null,
+    "net_price":31834
+  },
+  {
+    "company_name":"KINVEST FARM COMPANY LTD",
+    "product":"Chilli and French bean",
+    "export_to":"Middle East and Europe",
+    "website":null,
+    "net_price":28047
+  },
+  {
+    "company_name":"Afrifoam",
+    "product":"Mattress",
+    "export_to":"Burundi",
+    "website":"www.afrifoamgroup.com",
+    "net_price":36105
+  },
+  {
+    "company_name":"Ameki Color",
+    "product":"Paints",
+    "export_to":null,
+    "website":"www.amekicolor.com",
+    "net_price":85766
+  },
+  {
+    "company_name":"Ameki Color",
+    "product":"furniture and tanks",
+    "export_to":null,
+    "website":"www.amekicolor.com",
+    "net_price":25707
+  },
+  {
+    "company_name":"Aquasan Ltd",
+    "product":"Plastic tanks",
+    "export_to":"DRC",
+    "website":"www.aquasanrw.com",
+    "net_price":31976
+  },
+  {
+    "company_name":"Atlas Windows",
+    "product":"PVC Window and door frames",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":54262
+  },
+  {
+    "company_name":"Bems Duhange",
+    "product":"Tiles",
+    "export_to":null,
+    "website":null,
+    "net_price":33776
+  },
+  {
+    "company_name":"Bems Duhange",
+    "product":"blocks",
+    "export_to":null,
+    "website":null,
+    "net_price":40080
+  },
+  {
+    "company_name":"Bems Duhange",
+    "product":"Cobblestones",
+    "export_to":null,
+    "website":null,
+    "net_price":76842
+  },
+  {
+    "company_name":"Bonus Enterprises",
+    "product":"Paper bag",
+    "export_to":null,
+    "website":null,
+    "net_price":71373
+  },
+  {
+    "company_name":"C&D Products Rwanda Ltd",
+    "product":"Garments",
+    "export_to":"Europe",
+    "website":null,
+    "net_price":16776
+  },
+  {
+    "company_name":"Chillington Rwanda",
+    "product":"Spare in iron or in steel",
+    "export_to":null,
+    "website":null,
+    "net_price":65016
+  },
+  {
+    "company_name":"CIMERWA",
+    "product":"Cement",
+    "export_to":"DRC",
+    "website":"www.cimerwa.rw",
+    "net_price":19474
+  },
+  {
+    "company_name":"CIMERWA",
+    "product":"Cement",
+    "export_to":"Burundi",
+    "website":"www.cimerwa.rw",
+    "net_price":68053
+  },
+  {
+    "company_name":"Crown Paints",
+    "product":"Paints",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":31959
+  },
+  {
+    "company_name":"East African Granite Industries",
+    "product":"Slabs",
+    "export_to":"Uganda",
+    "website":"www.eastafricangranite.com",
+    "net_price":15530
+  },
+  {
+    "company_name":"East African Granite Industries",
+    "product":"Slabs",
+    "export_to":"DRC",
+    "website":"www.eastafricangranite.com",
+    "net_price":13748
+  },
+  {
+    "company_name":"East African Granite Industries",
+    "product":"Tiles",
+    "export_to":"Uganda",
+    "website":"www.eastafricangranite.com",
+    "net_price":23545
+  },
+  {
+    "company_name":"East African Granite Industries",
+    "product":"Tiles",
+    "export_to":"DRC",
+    "website":"www.eastafricangranite.com",
+    "net_price":76199
+  },
+  {
+    "company_name":"East African Granite Industries",
+    "product":"Granite blocks",
+    "export_to":"Uganda",
+    "website":"www.eastafricangranite.com",
+    "net_price":44766
+  },
+  {
+    "company_name":"East African Granite Industries",
+    "product":"Granite blocks",
+    "export_to":"DRC",
+    "website":"www.eastafricangranite.com",
+    "net_price":83530
+  },
+  {
+    "company_name":"Flexifoam Ltd",
+    "product":"Mattress",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":71087
+  },
+  {
+    "company_name":"Flexifoam Ltd",
+    "product":"Mattress",
+    "export_to":"Burundi",
+    "website":null,
+    "net_price":78840
+  },
+  {
+    "company_name":"Flexifoam Ltd",
+    "product":"Paints",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":64384
+  },
+  {
+    "company_name":"Flexifoam Ltd",
+    "product":"Paints",
+    "export_to":"Burundi",
+    "website":null,
+    "net_price":61005
+  },
+  {
+    "company_name":"Flexifoam Ltd",
+    "product":"Water",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":56576
+  },
+  {
+    "company_name":"Flexifoam Ltd",
+    "product":"Water",
+    "export_to":"Burundi",
+    "website":null,
+    "net_price":49353
+  },
+  {
+    "company_name":"G-MART Limited",
+    "product":"school chalks",
+    "export_to":null,
+    "website":"www.g-martltd.com",
+    "net_price":72003
+  },
+  {
+    "company_name":"Great Lakes Cement",
+    "product":"Cement",
+    "export_to":null,
+    "website":null,
+    "net_price":93211
+  },
+  {
+    "company_name":"Kigali Cement Company",
+    "product":"Cement",
+    "export_to":"DRC",
+    "website":"www.armafrica.com",
+    "net_price":62733
+  },
+  {
+    "company_name":"Kigali Cement Company",
+    "product":"Cement",
+    "export_to":"Burundi",
+    "website":"www.armafrica.com",
+    "net_price":75318
+  },
+  {
+    "company_name":"KIGALI PLASTICS",
+    "product":"Tubes",
+    "export_to":"RDC",
+    "website":null,
+    "net_price":99474
+  },
+  {
+    "company_name":"KIGALI PLASTICS",
+    "product":"pipes and hoses",
+    "export_to":"RDC",
+    "website":null,
+    "net_price":33664
+  },
+  {
+    "company_name":"KIGALI PLASTICS",
+    "product":"rigid of polymers of vinyl chloride",
+    "export_to":"RDC",
+    "website":null,
+    "net_price":77172
+  },
+  {
+    "company_name":"Manumetal",
+    "product":"Wood",
+    "export_to":null,
+    "website":"www.manumetal.rw",
+    "net_price":95616
+  },
+  {
+    "company_name":"Manumetal",
+    "product":"steel and solar furniture",
+    "export_to":null,
+    "website":"www.manumetal.rw",
+    "net_price":36736
+  },
+  {
+    "company_name":"Maraphone",
+    "product":"Phones",
+    "export_to":null,
+    "website":"www.maraphones.com",
+    "net_price":10854
+  },
+  {
+    "company_name":"Master Steel Ltd",
+    "product":"steel bars",
+    "export_to":"DRC",
+    "website":"www.masteel.biz",
+    "net_price":48623
+  },
+  {
+    "company_name":"Master Steel Ltd",
+    "product":"roofing tiles",
+    "export_to":"DRC",
+    "website":"www.masteel.biz",
+    "net_price":17392
+  },
+  {
+    "company_name":"Master Steel Ltd",
+    "product":"galvanized sheet",
+    "export_to":"DRC",
+    "website":"www.masteel.biz",
+    "net_price":65680
+  },
+  {
+    "company_name":"NPD Cotraco",
+    "product":"Building blocks",
+    "export_to":"Greece",
+    "website":"www.npdcotraco.com",
+    "net_price":56717
+  },
+  {
+    "company_name":"NPD Cotraco",
+    "product":"Building blocks",
+    "export_to":"DRC",
+    "website":"www.npdcotraco.com",
+    "net_price":97092
+  },
+  {
+    "company_name":"NPD Cotraco",
+    "product":"pipes",
+    "export_to":"Greece",
+    "website":"www.npdcotraco.com",
+    "net_price":60859
+  },
+  {
+    "company_name":"NPD Cotraco",
+    "product":"pipes",
+    "export_to":"DRC",
+    "website":"www.npdcotraco.com",
+    "net_price":36309
+  },
+  {
+    "company_name":"NPD Cotraco",
+    "product":"electrical poles",
+    "export_to":"Greece",
+    "website":"www.npdcotraco.com",
+    "net_price":97455
+  },
+  {
+    "company_name":"NPD Cotraco",
+    "product":"electrical poles",
+    "export_to":"DRC",
+    "website":"www.npdcotraco.com",
+    "net_price":73734
+  },
+  {
+    "company_name":"Papyrus Co. Ltd",
+    "product":"Office",
+    "export_to":"EAC countries",
+    "website":null,
+    "net_price":80467
+  },
+  {
+    "company_name":"Papyrus Co. Ltd",
+    "product":"Home Furniture",
+    "export_to":"EAC countries",
+    "website":null,
+    "net_price":62662
+  },
+  {
+    "company_name":"PHARMA LAB Ltd",
+    "product":"Vacuum Tubes",
+    "export_to":"Cameroon",
+    "website":"www.pharmalabrwanda.com",
+    "net_price":22688
+  },
+  {
+    "company_name":"Positivo BGH Group",
+    "product":"Computers",
+    "export_to":null,
+    "website":"www.positivobgh.com",
+    "net_price":35342
+  },
+  {
+    "company_name":"Positivo BGH Group",
+    "product":"Laptops",
+    "export_to":null,
+    "website":"www.positivobgh.com",
+    "net_price":47157
+  },
+  {
+    "company_name":"Positivo BGH Group",
+    "product":"Cash power",
+    "export_to":null,
+    "website":"www.positivobgh.com",
+    "net_price":77863
+  },
+  {
+    "company_name":"Rotassairwa",
+    "product":"Plastic products",
+    "export_to":null,
+    "website":null,
+    "net_price":62083
+  },
+  {
+    "company_name":"Roto Ltd",
+    "product":"Plastic Products",
+    "export_to":"Burundi",
+    "website":"www.rotorwandatanks.com",
+    "net_price":75733
+  },
+  {
+    "company_name":"Roto Ltd",
+    "product":"Plastic Products",
+    "export_to":"DRC",
+    "website":"www.rotorwandatanks.com",
+    "net_price":99045
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"Bricks",
+    "export_to":"DRC",
+    "website":"www.ruliba.com",
+    "net_price":44698
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"Bricks",
+    "export_to":"Burundi",
+    "website":"www.ruliba.com",
+    "net_price":90623
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"Bricks",
+    "export_to":"Uganda",
+    "website":"www.ruliba.com",
+    "net_price":32671
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"wall blocks",
+    "export_to":"DRC",
+    "website":"www.ruliba.com",
+    "net_price":35184
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"wall blocks",
+    "export_to":"Burundi",
+    "website":"www.ruliba.com",
+    "net_price":52107
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"wall blocks",
+    "export_to":"Uganda",
+    "website":"www.ruliba.com",
+    "net_price":96202
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"ventilators",
+    "export_to":"DRC",
+    "website":"www.ruliba.com",
+    "net_price":61663
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"ventilators",
+    "export_to":"Burundi",
+    "website":"www.ruliba.com",
+    "net_price":25708
+  },
+  {
+    "company_name":"Ruliba Clays",
+    "product":"ventilators",
+    "export_to":"Uganda",
+    "website":"www.ruliba.com",
+    "net_price":59811
+  },
+  {
+    "company_name":"Rwanda Foam",
+    "product":"Mattress",
+    "export_to":"Burundi",
+    "website":"www.rwandafoam.com",
+    "net_price":12811
+  },
+  {
+    "company_name":"Rwanda Foam",
+    "product":"Mattress",
+    "export_to":"DRC",
+    "website":"www.rwandafoam.com",
+    "net_price":66250
+  },
+  {
+    "company_name":"Rwanda Plastic Industries",
+    "product":"Plastic Products",
+    "export_to":"Burundi",
+    "website":"www.rwandaplasticindustries.com",
+    "net_price":82082
+  },
+  {
+    "company_name":"Rwanda Plastic Industries",
+    "product":"Plastic Products",
+    "export_to":"DRC",
+    "website":"www.rwandaplasticindustries.com",
+    "net_price":44754
+  },
+  {
+    "company_name":"Sadolin Paints (Rwanda) Sarl",
+    "product":"Paints",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":21411
+  },
+  {
+    "company_name":"Safintra",
+    "product":"Roofing sheets in painted and unpainted",
+    "export_to":"DRC",
+    "website":"www.safintra-rwanda.com",
+    "net_price":12911
+  },
+  {
+    "company_name":"Sahasra electronics Rwanda Pvt.ltd",
+    "product":"Lights",
+    "export_to":"DRC",
+    "website":"www.sahasralectronics.com",
+    "net_price":77270
+  },
+  {
+    "company_name":"Seven hills Ltd",
+    "product":"Aluminum Utensils",
+    "export_to":"Burundi\/ Tanzania",
+    "website":null,
+    "net_price":93763
+  },
+  {
+    "company_name":"S&H Industries Ltd",
+    "product":"roofing tiles (Hippo)",
+    "export_to":"D.R. Congo",
+    "website":"www.hipporoofings.co.rw",
+    "net_price":18680
+  },
+  {
+    "company_name":"S&H Industries Ltd",
+    "product":"roofing tiles (Hippo)",
+    "export_to":"Zambia",
+    "website":"www.hipporoofings.co.rw",
+    "net_price":94896
+  },
+  {
+    "company_name":"S&H Industries Ltd",
+    "product":"roofing tiles (Hippo)",
+    "export_to":"Gabon",
+    "website":"www.hipporoofings.co.rw",
+    "net_price":93879
+  },
+  {
+    "company_name":"S&H Industries Ltd",
+    "product":"roofing tiles (Hippo)",
+    "export_to":"Congo Brazzaville",
+    "website":"www.hipporoofings.co.rw",
+    "net_price":81295
+  },
+  {
+    "company_name":"S&H Industries Ltd",
+    "product":"roofing tiles (Hippo)",
+    "export_to":"South Sudan",
+    "website":"www.hipporoofings.co.rw",
+    "net_price":98614
+  },
+  {
+    "company_name":"Soimex Plastic Ltd",
+    "product":"A wide range of products that covers construction",
+    "export_to":null,
+    "website":"www.soimexplastic.com",
+    "net_price":21111
+  },
+  {
+    "company_name":"Soimex Plastic Ltd",
+    "product":"agriculture",
+    "export_to":null,
+    "website":"www.soimexplastic.com",
+    "net_price":47504
+  },
+  {
+    "company_name":"Soimex Plastic Ltd",
+    "product":"hygiene and even packaging",
+    "export_to":null,
+    "website":"www.soimexplastic.com",
+    "net_price":11802
+  },
+  {
+    "company_name":"Sonatubes",
+    "product":"Plastic pipe",
+    "export_to":"Burundi",
+    "website":null,
+    "net_price":18155
+  },
+  {
+    "company_name":"Sonatubes",
+    "product":"Plastic pipe",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":83656
+  },
+  {
+    "company_name":"SRB Investments (Rwanda) Ltd",
+    "product":"Paper bag",
+    "export_to":"Tanzania",
+    "website":"www.srbinvest.com",
+    "net_price":49384
+  },
+  {
+    "company_name":"Star Construction Company",
+    "product":"Pavers",
+    "export_to":null,
+    "website":"www.starconstruction.rw",
+    "net_price":57254
+  },
+  {
+    "company_name":"Star Construction Company",
+    "product":"blocks",
+    "export_to":null,
+    "website":"www.starconstruction.rw",
+    "net_price":31918
+  },
+  {
+    "company_name":"Star Construction Company",
+    "product":"door and window frames",
+    "export_to":null,
+    "website":"www.starconstruction.rw",
+    "net_price":95981
+  },
+  {
+    "company_name":"STEELRWA Industries Ltd",
+    "product":"Steel bars",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":70713
+  },
+  {
+    "company_name":"STEELRWA Industries Ltd",
+    "product":"Steel bars",
+    "export_to":"Tanzania",
+    "website":null,
+    "net_price":40306
+  },
+  {
+    "company_name":"STEELRWA Industries Ltd",
+    "product":"Steel bars",
+    "export_to":"Burundi",
+    "website":null,
+    "net_price":26646
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Cosmetics",
+    "export_to":"Burundi",
+    "website":"www.sulfo.com",
+    "net_price":56843
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Cosmetics",
+    "export_to":"Uganda",
+    "website":"www.sulfo.com",
+    "net_price":26371
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Cosmetics",
+    "export_to":"DRC",
+    "website":"www.sulfo.com",
+    "net_price":87371
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Plastics",
+    "export_to":"Burundi",
+    "website":"www.sulfo.com",
+    "net_price":12049
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Plastics",
+    "export_to":"Uganda",
+    "website":"www.sulfo.com",
+    "net_price":41616
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Plastics",
+    "export_to":"DRC",
+    "website":"www.sulfo.com",
+    "net_price":30932
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Detergent",
+    "export_to":"Burundi",
+    "website":"www.sulfo.com",
+    "net_price":39855
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Detergent",
+    "export_to":"Uganda",
+    "website":"www.sulfo.com",
+    "net_price":71434
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Detergent",
+    "export_to":"DRC",
+    "website":"www.sulfo.com",
+    "net_price":82694
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Carton and water",
+    "export_to":"Burundi",
+    "website":"www.sulfo.com",
+    "net_price":53016
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Carton and water",
+    "export_to":"Uganda",
+    "website":"www.sulfo.com",
+    "net_price":17400
+  },
+  {
+    "company_name":"Sulfo Rwanda",
+    "product":"Carton and water",
+    "export_to":"DRC",
+    "website":"www.sulfo.com",
+    "net_price":52642
+  },
+  {
+    "company_name":"Supa Works",
+    "product":"Tissue paper",
+    "export_to":null,
+    "website":null,
+    "net_price":25151
+  },
+  {
+    "company_name":"Utexrwa Sa",
+    "product":"Textile",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":61407
+  },
+  {
+    "company_name":"Viva Products",
+    "product":"Matress",
+    "export_to":"Burundi",
+    "website":"www.viva.rw",
+    "net_price":76690
+  },
+  {
+    "company_name":"Viva Products",
+    "product":"Matress",
+    "export_to":"DRC",
+    "website":"www.viva.rw",
+    "net_price":14499
+  },
+  {
+    "company_name":"Viva Products",
+    "product":"Matress",
+    "export_to":"Uganda",
+    "website":"www.viva.rw",
+    "net_price":16295
+  },
+  {
+    "company_name":"V-PLUS Developers &Traders",
+    "product":"Roofing tiles (Hippo)",
+    "export_to":"Burundi",
+    "website":"www.vplusdevelopers.com",
+    "net_price":69040
+  },
+  {
+    "company_name":"V-PLUS Developers &Traders",
+    "product":"Roofing tiles (Hippo)",
+    "export_to":"DRC",
+    "website":"www.vplusdevelopers.com",
+    "net_price":22183
+  },
+  {
+    "company_name":"V-PLUS Developers &Traders",
+    "product":"Roofing tiles (Hippo)",
+    "export_to":"Tanzania",
+    "website":"www.vplusdevelopers.com",
+    "net_price":39299
+  },
+  {
+    "company_name":"Adma International",
+    "product":"Riham Biscuit",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":22874
+  },
+  {
+    "company_name":"Africa Improved Foods",
+    "product":"high-quality fortified nutritious foods from grains",
+    "export_to":"Congo",
+    "website":null,
+    "net_price":42711
+  },
+  {
+    "company_name":"Africa Improved Foods",
+    "product":"high-quality fortified nutritious foods from grains",
+    "export_to":"Angola",
+    "website":null,
+    "net_price":15539
+  },
+  {
+    "company_name":"Africa Improved Foods",
+    "product":"high-quality fortified nutritious foods from grains",
+    "export_to":"Tanzania",
+    "website":null,
+    "net_price":63351
+  },
+  {
+    "company_name":"AgroPy Ltd",
+    "product":"Liquid and powder organic pyrethrum based products",
+    "export_to":null,
+    "website":"www.agropyltd.com",
+    "net_price":71267
+  },
+  {
+    "company_name":"Apibusiness Development Company (ABDC) Ltd",
+    "product":"Honey",
+    "export_to":null,
+    "website":null,
+    "net_price":58354
+  },
+  {
+    "company_name":"Asil Natural oils",
+    "product":"Moringa oil",
+    "export_to":"UK",
+    "website":"www.asilioils.com",
+    "net_price":12557
+  },
+  {
+    "company_name":"Asil Natural oils",
+    "product":"Moringa oil",
+    "export_to":"USA",
+    "website":"www.asilioils.com",
+    "net_price":48360
+  },
+  {
+    "company_name":"Azania Group (Mikoani Traders)",
+    "product":"Wheat",
+    "export_to":"Kenya",
+    "website":"www.azaniagroup.company",
+    "net_price":92018
+  },
+  {
+    "company_name":"Azania Group (Mikoani Traders)",
+    "product":"Wheat",
+    "export_to":"Congo",
+    "website":"www.azaniagroup.company",
+    "net_price":12200
+  },
+  {
+    "company_name":"Bakressa GrainMill (AZAM)",
+    "product":"Wheat flour",
+    "export_to":"DRC",
+    "website":"www.bakhresa.com",
+    "net_price":78497
+  },
+  {
+    "company_name":"Bakressa GrainMill (AZAM)",
+    "product":"Wheat flour",
+    "export_to":"Kenya",
+    "website":"www.bakhresa.com",
+    "net_price":56975
+  },
+  {
+    "company_name":"Bakressa GrainMill (AZAM)",
+    "product":"Wheat flour",
+    "export_to":"Burundi",
+    "website":"www.bakhresa.com",
+    "net_price":31357
+  },
+  {
+    "company_name":"Bakressa GrainMill (AZAM)",
+    "product":"Wheat flour",
+    "export_to":"UAE",
+    "website":"www.bakhresa.com",
+    "net_price":87505
+  },
+  {
+    "company_name":"Bralirwa ltd",
+    "product":"Beer and Soft beverages",
+    "export_to":"DRC",
+    "website":"www.bralirwa.com",
+    "net_price":12869
+  },
+  {
+    "company_name":"Bralirwa ltd",
+    "product":"Beer and Soft beverages",
+    "export_to":"Uganda",
+    "website":"www.bralirwa.com",
+    "net_price":71135
+  },
+  {
+    "company_name":"Bralirwa ltd",
+    "product":"Beer and Soft beverages",
+    "export_to":"Burundi",
+    "website":"www.bralirwa.com",
+    "net_price":60108
+  },
+  {
+    "company_name":"BRIOCHE",
+    "product":"Premium frozen bakery-pastry goods",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":48467
+  },
+  {
+    "company_name":"BRIOCHE",
+    "product":"Premium frozen bakery-pastry goods",
+    "export_to":"Tanzania",
+    "website":null,
+    "net_price":33328
+  },
+  {
+    "company_name":"Buranga General Business",
+    "product":"Honey",
+    "export_to":null,
+    "website":null,
+    "net_price":96831
+  },
+  {
+    "company_name":"CARREFOUR VETERINAIRE ET AGRICOLE",
+    "product":"Agricultural Insecticides",
+    "export_to":"Burundi",
+    "website":null,
+    "net_price":13987
+  },
+  {
+    "company_name":"COVEPAR",
+    "product":"Cassava flour",
+    "export_to":"France",
+    "website":null,
+    "net_price":68871
+  },
+  {
+    "company_name":"DOKMAI Rwanda ltd",
+    "product":"Skins",
+    "export_to":null,
+    "website":null,
+    "net_price":32399
+  },
+  {
+    "company_name":"Green Harvest",
+    "product":"Chili sauce",
+    "export_to":"Uganda",
+    "website":"www.sabana.info",
+    "net_price":56214
+  },
+  {
+    "company_name":"Gulf Dragon Leather Rwanda Limited",
+    "product":"Wet Salted Cow Hides",
+    "export_to":"China",
+    "website":null,
+    "net_price":96416
+  },
+  {
+    "company_name":"Gulf Dragon Leather Rwanda Limited",
+    "product":"Wet Salted Cow Hides",
+    "export_to":"Hong Kong",
+    "website":null,
+    "net_price":80271
+  },
+  {
+    "company_name":"H2O Ventures",
+    "product":"Gorilla Honey",
+    "export_to":"UK",
+    "website":"www.h2ovp.com",
+    "net_price":54064
+  },
+  {
+    "company_name":"Horizon Sopyrwa",
+    "product":"Refined pyrethrum products",
+    "export_to":"USA",
+    "website":"www.sopyrwa.com",
+    "net_price":80091
+  },
+  {
+    "company_name":"Horizon Sopyrwa",
+    "product":"Refined pyrethrum products",
+    "export_to":"UK",
+    "website":"www.sopyrwa.com",
+    "net_price":50818
+  },
+  {
+    "company_name":"Horizon Sopyrwa",
+    "product":"Refined pyrethrum products",
+    "export_to":"Italy",
+    "website":"www.sopyrwa.com",
+    "net_price":55525
+  },
+  {
+    "company_name":"Horizon Sopyrwa",
+    "product":"Refined pyrethrum products",
+    "export_to":"Netherlands",
+    "website":"www.sopyrwa.com",
+    "net_price":29830
+  },
+  {
+    "company_name":"ICM Agribusiness Sarl",
+    "product":"Rice",
+    "export_to":"DRC",
+    "website":"www.luckirice.com",
+    "net_price":27429
+  },
+  {
+    "company_name":"Impu Maihu",
+    "product":"Wet Salted Hides",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":16893
+  },
+  {
+    "company_name":"Impu Maihu",
+    "product":"Wet Salted Hides",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":89909
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Geranium",
+    "export_to":"South Africa",
+    "website":"www.ikirezi.com",
+    "net_price":57333
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Geranium",
+    "export_to":"France",
+    "website":"www.ikirezi.com",
+    "net_price":13436
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Patchouli",
+    "export_to":"South Africa",
+    "website":"www.ikirezi.com",
+    "net_price":84290
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Patchouli",
+    "export_to":"France",
+    "website":"www.ikirezi.com",
+    "net_price":86213
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Lemongrass",
+    "export_to":"South Africa",
+    "website":"www.ikirezi.com",
+    "net_price":15895
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Lemongrass",
+    "export_to":"France",
+    "website":"www.ikirezi.com",
+    "net_price":29738
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Eucalyptus and targeted oil",
+    "export_to":"South Africa",
+    "website":"www.ikirezi.com",
+    "net_price":40746
+  },
+  {
+    "company_name":"Ikirezi Natural",
+    "product":"Eucalyptus and targeted oil",
+    "export_to":"France",
+    "website":"www.ikirezi.com",
+    "net_price":59377
+  },
+  {
+    "company_name":"Inyange Industries",
+    "product":"Mineral water",
+    "export_to":"Burundi",
+    "website":"www.inyangeindustries.com",
+    "net_price":58404
+  },
+  {
+    "company_name":"Inyange Industries",
+    "product":"Mineral water",
+    "export_to":"Soudan",
+    "website":"www.inyangeindustries.com",
+    "net_price":64045
+  },
+  {
+    "company_name":"Inyange Industries",
+    "product":"Mineral water",
+    "export_to":"DRC",
+    "website":"www.inyangeindustries.com",
+    "net_price":49790
+  },
+  {
+    "company_name":"Inyange Industries",
+    "product":"juice and milk products",
+    "export_to":"Burundi",
+    "website":"www.inyangeindustries.com",
+    "net_price":15600
+  },
+  {
+    "company_name":"Inyange Industries",
+    "product":"juice and milk products",
+    "export_to":"Soudan",
+    "website":"www.inyangeindustries.com",
+    "net_price":50764
+  },
+  {
+    "company_name":"Inyange Industries",
+    "product":"juice and milk products",
+    "export_to":"DRC",
+    "website":"www.inyangeindustries.com",
+    "net_price":84543
+  },
+  {
+    "company_name":"ISHYO Foods Ltd",
+    "product":"jams",
+    "export_to":null,
+    "website":null,
+    "net_price":55714
+  },
+  {
+    "company_name":"Kabuye sugar works",
+    "product":"Ms scrap",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":66835
+  },
+  {
+    "company_name":"Kigali Hides and Skins",
+    "product":"Wet Salted Cow Hides",
+    "export_to":"China",
+    "website":null,
+    "net_price":83744
+  },
+  {
+    "company_name":"Kigali Hides and Skins",
+    "product":"Wet Salted Cow Hides",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":66491
+  },
+  {
+    "company_name":"Kigali Hides and Skins",
+    "product":"skins",
+    "export_to":"China",
+    "website":null,
+    "net_price":28589
+  },
+  {
+    "company_name":"Kigali Hides and Skins",
+    "product":"skins",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":53484
+  },
+  {
+    "company_name":"Kigali Leather",
+    "product":"Wet Salted Skins",
+    "export_to":"China",
+    "website":null,
+    "net_price":92989
+  },
+  {
+    "company_name":"Kinazi Cassava Plant",
+    "product":"Cassava flour",
+    "export_to":"DRC",
+    "website":"www.kcp.rw",
+    "net_price":46212
+  },
+  {
+    "company_name":"Kinazi Cassava Plant",
+    "product":"Cassava flour",
+    "export_to":"Burundi",
+    "website":"www.kcp.rw",
+    "net_price":53525
+  },
+  {
+    "company_name":"Minoterie import and export (MINIMEX sa)",
+    "product":"Maize flour",
+    "export_to":"DRC",
+    "website":"www.minimex.co.rw",
+    "net_price":57202
+  },
+  {
+    "company_name":"Minoterie import and export (MINIMEX sa)",
+    "product":"Maize flour",
+    "export_to":"Kenya",
+    "website":"www.minimex.co.rw",
+    "net_price":42635
+  },
+  {
+    "company_name":"Mount Meru Soyco",
+    "product":"Cooking oil",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":73208
+  },
+  {
+    "company_name":"Multisector Investment Group (MIG SA)",
+    "product":"Honey",
+    "export_to":null,
+    "website":"www.mig-rw.com",
+    "net_price":43828
+  },
+  {
+    "company_name":"Mwogo Trading",
+    "product":"Wet Salted Cow Hides",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":28711
+  },
+  {
+    "company_name":"Mwogo Trading",
+    "product":"Wet Salted Cow Hides",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":13420
+  },
+  {
+    "company_name":"Mwogo Trading",
+    "product":"Goat and Sheep Skins",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":10301
+  },
+  {
+    "company_name":"Mwogo Trading",
+    "product":"Goat and Sheep Skins",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":55236
+  },
+  {
+    "company_name":"New Rucep",
+    "product":"Hides",
+    "export_to":"Italy",
+    "website":null,
+    "net_price":76235
+  },
+  {
+    "company_name":"Norelga macadamia Rwanda Ltd",
+    "product":"Macadamia nuts",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":64240
+  },
+  {
+    "company_name":"Norelga macadamia Rwanda Ltd",
+    "product":"Macadamia nuts",
+    "export_to":"Dubai",
+    "website":null,
+    "net_price":75726
+  },
+  {
+    "company_name":"Nyabarongo Hides & Skins Ltd",
+    "product":"Hides",
+    "export_to":"Italy",
+    "website":null,
+    "net_price":20492
+  },
+  {
+    "company_name":"Nyabarongo Hides & Skins Ltd",
+    "product":"Hides",
+    "export_to":"Congo",
+    "website":null,
+    "net_price":16102
+  },
+  {
+    "company_name":"Pembe Flour",
+    "product":"Wheat flour",
+    "export_to":"DRC",
+    "website":null,
+    "net_price":60336
+  },
+  {
+    "company_name":"Pembe Flour",
+    "product":"Wheat flour",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":95314
+  },
+  {
+    "company_name":"Said and Sons",
+    "product":"Wet Salted Hides",
+    "export_to":"China",
+    "website":null,
+    "net_price":36641
+  },
+  {
+    "company_name":"Said and Sons",
+    "product":"Wet Salted Hides",
+    "export_to":"Uganda",
+    "website":null,
+    "net_price":44584
+  },
+  {
+    "company_name":"Rwanda Honey",
+    "product":"beeswax candles",
+    "export_to":"Switzerland",
+    "website":"www.rwandahoney.com",
+    "net_price":42745
+  },
+  {
+    "company_name":"Rwanda Honey",
+    "product":"beeswax candles",
+    "export_to":"Japan",
+    "website":"www.rwandahoney.com",
+    "net_price":33093
+  },
+  {
+    "company_name":"Rwanda Honey",
+    "product":"beeswax candles",
+    "export_to":"Malaysia",
+    "website":"www.rwandahoney.com",
+    "net_price":76105
+  },
+  {
+    "company_name":"Rwanda Honey",
+    "product":"beeswax candles",
+    "export_to":"Singapore",
+    "website":"www.rwandahoney.com",
+    "net_price":61885
+  },
+  {
+    "company_name":"Rwanda nut company",
+    "product":"Macadamia nuts",
+    "export_to":"USA",
+    "website":null,
+    "net_price":46631
+  },
+  {
+    "company_name":"Satra Sarl",
+    "product":"Wet Salted Cow Hides",
+    "export_to":"China",
+    "website":null,
+    "net_price":82991
+  },
+  {
+    "company_name":"Seed Co International Rwanda Ltd",
+    "product":"Seeds",
+    "export_to":"Tanzania",
+    "website":null,
+    "net_price":14014
+  },
+  {
+    "company_name":"Shekina",
+    "product":"Foodstuffs",
+    "export_to":"Belgium",
+    "website":"www.akezashekina.rw",
+    "net_price":21093
+  },
+  {
+    "company_name":"Shekina",
+    "product":"Foodstuffs",
+    "export_to":"Canada",
+    "website":"www.akezashekina.rw",
+    "net_price":28070
+  },
+  {
+    "company_name":"Skol brewery Ltd",
+    "product":"Beer and soft drinks",
+    "export_to":"Burundi",
+    "website":"www.skolinterantional.com",
+    "net_price":45777
+  },
+  {
+    "company_name":"Skol brewery Ltd",
+    "product":"Beer and soft drinks",
+    "export_to":"DRC",
+    "website":"www.skolinterantional.com",
+    "net_price":66958
+  },
+  {
+    "company_name":"Sosoma Industries Limited",
+    "product":"Soya",
+    "export_to":"Burundi",
+    "website":"www.sosoma.rw",
+    "net_price":92074
+  },
+  {
+    "company_name":"Sosoma Industries Limited",
+    "product":"Soya",
+    "export_to":"DRC",
+    "website":"www.sosoma.rw",
+    "net_price":20729
+  },
+  {
+    "company_name":"Sosoma Industries Limited",
+    "product":"Soya",
+    "export_to":"Uganda",
+    "website":"www.sosoma.rw",
+    "net_price":55017
+  },
+  {
+    "company_name":"Sosoma Industries Limited",
+    "product":"Maize and Sorghum flour",
+    "export_to":"Burundi",
+    "website":"www.sosoma.rw",
+    "net_price":76320
+  },
+  {
+    "company_name":"Sosoma Industries Limited",
+    "product":"Maize and Sorghum flour",
+    "export_to":"DRC",
+    "website":"www.sosoma.rw",
+    "net_price":37751
+  },
+  {
+    "company_name":"Sosoma Industries Limited",
+    "product":"Maize and Sorghum flour",
+    "export_to":"Uganda",
+    "website":"www.sosoma.rw",
+    "net_price":88069
+  },
+  {
+    "company_name":"Sorwatom",
+    "product":"Tomato paste",
+    "export_to":"Burundi",
+    "website":null,
+    "net_price":64748
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Gin",
+    "export_to":"Burundi",
+    "website":"www.speranzarwanda.com",
+    "net_price":15801
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Gin",
+    "export_to":"Kenya",
+    "website":"www.speranzarwanda.com",
+    "net_price":29190
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Coffee rum",
+    "export_to":"Burundi",
+    "website":"www.speranzarwanda.com",
+    "net_price":59689
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Coffee rum",
+    "export_to":"Kenya",
+    "website":"www.speranzarwanda.com",
+    "net_price":60993
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Waragi",
+    "export_to":"Burundi",
+    "website":"www.speranzarwanda.com",
+    "net_price":39592
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Waragi",
+    "export_to":"Kenya",
+    "website":"www.speranzarwanda.com",
+    "net_price":20647
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Vodka",
+    "export_to":"Burundi",
+    "website":"www.speranzarwanda.com",
+    "net_price":18716
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Vodka",
+    "export_to":"Kenya",
+    "website":"www.speranzarwanda.com",
+    "net_price":98891
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Golden Sherry",
+    "export_to":"Burundi",
+    "website":"www.speranzarwanda.com",
+    "net_price":97545
+  },
+  {
+    "company_name":"Speranza Group ltd",
+    "product":"Golden Sherry",
+    "export_to":"Kenya",
+    "website":"www.speranzarwanda.com",
+    "net_price":99912
+  },
+  {
+    "company_name":"Stevia life",
+    "product":"Stevie dry leaves",
+    "export_to":"China",
+    "website":"www.stevialife.com",
+    "net_price":80316
+  },
+  {
+    "company_name":"The Apiary",
+    "product":"Natural Honey",
+    "export_to":"Singapore",
+    "website":"https:\/\/www.theapiary.sg\/",
+    "net_price":12368
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Juice",
+    "export_to":"Belgium",
+    "website":"www.sinarwanda.com",
+    "net_price":87575
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Juice",
+    "export_to":"Uganda",
+    "website":"www.sinarwanda.com",
+    "net_price":16655
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Juice",
+    "export_to":"DRC",
+    "website":"www.sinarwanda.com",
+    "net_price":80031
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Juice",
+    "export_to":"USA",
+    "website":"www.sinarwanda.com",
+    "net_price":86429
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Wine",
+    "export_to":"Belgium",
+    "website":"www.sinarwanda.com",
+    "net_price":97922
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Wine",
+    "export_to":"Uganda",
+    "website":"www.sinarwanda.com",
+    "net_price":65766
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Wine",
+    "export_to":"DRC",
+    "website":"www.sinarwanda.com",
+    "net_price":23403
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"Wine",
+    "export_to":"USA",
+    "website":"www.sinarwanda.com",
+    "net_price":42097
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"bakery and pepper products",
+    "export_to":"Belgium",
+    "website":"www.sinarwanda.com",
+    "net_price":88657
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"bakery and pepper products",
+    "export_to":"Uganda",
+    "website":"www.sinarwanda.com",
+    "net_price":20966
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"bakery and pepper products",
+    "export_to":"DRC",
+    "website":"www.sinarwanda.com",
+    "net_price":62921
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":"bakery and pepper products",
+    "export_to":"USA",
+    "website":"www.sinarwanda.com",
+    "net_price":59726
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":null,
+    "export_to":"Belgium",
+    "website":"www.sinarwanda.com",
+    "net_price":60300
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":null,
+    "export_to":"Uganda",
+    "website":"www.sinarwanda.com",
+    "net_price":32677
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":null,
+    "export_to":"DRC",
+    "website":"www.sinarwanda.com",
+    "net_price":65609
+  },
+  {
+    "company_name":"Urwibutso Enterprise",
+    "product":null,
+    "export_to":"USA",
+    "website":"www.sinarwanda.com",
+    "net_price":66661
+  },
+  {
+    "company_name":"Vision Business Company enterprises",
+    "product":"Goat Skins",
+    "export_to":"China",
+    "website":null,
+    "net_price":41024
+  },
+  {
+    "company_name":"Vision Business Company enterprises",
+    "product":"Goat Skins",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":80313
+  },
+  {
+    "company_name":"Abahizi Dushyigikirane",
+    "product":"Handbag",
+    "export_to":"USA",
+    "website":null,
+    "net_price":63006
+  },
+  {
+    "company_name":"Abahizi Dushyigikirane",
+    "product":"Handbag",
+    "export_to":"UK",
+    "website":null,
+    "net_price":25338
+  },
+  {
+    "company_name":"Abahizi Dushyigikirane",
+    "product":"Handbag",
+    "export_to":"Hong Kong",
+    "website":null,
+    "net_price":78027
+  },
+  {
+    "company_name":"Abahizi Dushyigikirane",
+    "product":"Jewelry",
+    "export_to":"USA",
+    "website":null,
+    "net_price":90135
+  },
+  {
+    "company_name":"Abahizi Dushyigikirane",
+    "product":"Jewelry",
+    "export_to":"UK",
+    "website":null,
+    "net_price":29508
+  },
+  {
+    "company_name":"Abahizi Dushyigikirane",
+    "product":"Jewelry",
+    "export_to":"Hong Kong",
+    "website":null,
+    "net_price":13051
+  },
+  {
+    "company_name":"AFRICA CLOTHES DESIGN LTD",
+    "product":"Handcrafts",
+    "export_to":"USA",
+    "website":null,
+    "net_price":58747
+  },
+  {
+    "company_name":"African Arts Rwanda Sarl",
+    "product":"Clothes woven baskets",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":97142
+  },
+  {
+    "company_name":"African Arts Rwanda Sarl",
+    "product":"painting",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":97235
+  },
+  {
+    "company_name":"African Arts Rwanda Sarl",
+    "product":"jewelry",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":64021
+  },
+  {
+    "company_name":"ALL ACROSS AFRICA",
+    "product":"Fruit bowls handcrafts",
+    "export_to":"Japan",
+    "website":"http:\/\/www.allacrossafrica.org",
+    "net_price":76412
+  },
+  {
+    "company_name":"AMASHYO LTD",
+    "product":"Handcrafts",
+    "export_to":"USA",
+    "website":null,
+    "net_price":68335
+  },
+  {
+    "company_name":"Aprohade",
+    "product":"Postcards",
+    "export_to":"Belgium",
+    "website":"www.aprohade.org.rw",
+    "net_price":66179
+  },
+  {
+    "company_name":"Aprohade",
+    "product":"Paintings",
+    "export_to":"Belgium",
+    "website":"www.aprohade.org.rw",
+    "net_price":42093
+  },
+  {
+    "company_name":"Aprohade",
+    "product":"Embroidery on all kind of fabrics",
+    "export_to":"Belgium",
+    "website":"www.aprohade.org.rw",
+    "net_price":79678
+  },
+  {
+    "company_name":"ARTPOINT RWANDA LTD",
+    "product":"Handcrafts",
+    "export_to":"USA",
+    "website":null,
+    "net_price":90738
+  },
+  {
+    "company_name":"Azizi life",
+    "product":"Woven bowls",
+    "export_to":"USA",
+    "website":"www.azizilife.com",
+    "net_price":49734
+  },
+  {
+    "company_name":"Azizi life",
+    "product":"baskets",
+    "export_to":"USA",
+    "website":"www.azizilife.com",
+    "net_price":82615
+  },
+  {
+    "company_name":"Azizi life",
+    "product":"bags",
+    "export_to":"USA",
+    "website":"www.azizilife.com",
+    "net_price":83523
+  },
+  {
+    "company_name":"Azizi life",
+    "product":"purses",
+    "export_to":"USA",
+    "website":"www.azizilife.com",
+    "net_price":27019
+  },
+  {
+    "company_name":"Azizi life",
+    "product":"jewelry accessories",
+    "export_to":"USA",
+    "website":"www.azizilife.com",
+    "net_price":93613
+  },
+  {
+    "company_name":"BOKONGO LTD",
+    "product":"Wood marquetry",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":96672
+  },
+  {
+    "company_name":"BOKONGO LTD",
+    "product":"inlaid wood",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":83847
+  },
+  {
+    "company_name":"CHARLESTON TRAVEL RWANDA LTD",
+    "product":"Handcrafts",
+    "export_to":"Germany",
+    "website":null,
+    "net_price":92750
+  },
+  {
+    "company_name":"CAPLAKI",
+    "product":"Woven basket",
+    "export_to":"Germany",
+    "website":null,
+    "net_price":89634
+  },
+  {
+    "company_name":"CAPLAKI",
+    "product":"Jewelry",
+    "export_to":"Germany",
+    "website":null,
+    "net_price":38251
+  },
+  {
+    "company_name":"CAPLAKI",
+    "product":"textiles",
+    "export_to":"Germany",
+    "website":null,
+    "net_price":35945
+  },
+  {
+    "company_name":"CAPLAKI",
+    "product":"African Sandals",
+    "export_to":"Germany",
+    "website":null,
+    "net_price":42217
+  },
+  {
+    "company_name":"CAPLAKI",
+    "product":"wood materials",
+    "export_to":"Germany",
+    "website":null,
+    "net_price":18308
+  },
+  {
+    "company_name":"Cooperative KIAKA",
+    "product":"Basket",
+    "export_to":"Uganda",
+    "website":"www.kiaka.info",
+    "net_price":15949
+  },
+  {
+    "company_name":"Cooperative KIAKA",
+    "product":"Basket",
+    "export_to":"Belgium",
+    "website":"www.kiaka.info",
+    "net_price":61990
+  },
+  {
+    "company_name":"Cooperative KIAKA",
+    "product":"Postcards",
+    "export_to":"Uganda",
+    "website":"www.kiaka.info",
+    "net_price":11150
+  },
+  {
+    "company_name":"Cooperative KIAKA",
+    "product":"Postcards",
+    "export_to":"Belgium",
+    "website":"www.kiaka.info",
+    "net_price":99480
+  },
+  {
+    "company_name":"Cooperative KIAKA",
+    "product":"furniture and metal products",
+    "export_to":"Uganda",
+    "website":"www.kiaka.info",
+    "net_price":84740
+  },
+  {
+    "company_name":"Cooperative KIAKA",
+    "product":"furniture and metal products",
+    "export_to":"Belgium",
+    "website":"www.kiaka.info",
+    "net_price":76617
+  },
+  {
+    "company_name":"DREAMY HANDCRAFTS Ltd",
+    "product":"Handcrafts",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":26896
+  },
+  {
+    "company_name":"DREAMY HANDCRAFTS Ltd",
+    "product":"Handcrafts",
+    "export_to":"Senegal",
+    "website":null,
+    "net_price":56175
+  },
+  {
+    "company_name":"DUHOPE Ltd",
+    "product":"Earrings",
+    "export_to":"USA",
+    "website":"https:\/\/duhope.org\/",
+    "net_price":17805
+  },
+  {
+    "company_name":"DUHOPE Ltd",
+    "product":"Necklaces",
+    "export_to":"USA",
+    "website":"https:\/\/duhope.org\/",
+    "net_price":15237
+  },
+  {
+    "company_name":"FASO GEMS COMPANY LTD",
+    "product":"Bid necklaces",
+    "export_to":"USA",
+    "website":null,
+    "net_price":30056
+  },
+  {
+    "company_name":"Gahaya links",
+    "product":"Woven basket",
+    "export_to":"USA",
+    "website":"www.gahayalinks.com",
+    "net_price":55543
+  },
+  {
+    "company_name":"Gahaya links",
+    "product":"Jewelry and textiles",
+    "export_to":"USA",
+    "website":"www.gahayalinks.com",
+    "net_price":66556
+  },
+  {
+    "company_name":"GIFT OF WOMEN",
+    "product":"Handcrafts",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":13343
+  },
+  {
+    "company_name":"Glo Creations",
+    "product":"Textile designing company",
+    "export_to":null,
+    "website":"www.glocreations.com",
+    "net_price":23500
+  },
+  {
+    "company_name":"HAP SHIPPING LTD",
+    "product":"Articles of vegetable plaiting materials",
+    "export_to":"USA",
+    "website":null,
+    "net_price":63222
+  },
+  {
+    "company_name":"HONGDA TRADING Ltd",
+    "product":"Handcrafts",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":39375
+  },
+  {
+    "company_name":"IAR INNOVATIONS LTD",
+    "product":"Imigwegwe and Banana Leaf handcrafts",
+    "export_to":"USA",
+    "website":null,
+    "net_price":19662
+  },
+  {
+    "company_name":"Inema Arts",
+    "product":"Contemporary Art Gallery",
+    "export_to":null,
+    "website":"www.inemaartcenter.com",
+    "net_price":26964
+  },
+  {
+    "company_name":"Inzuki Designers",
+    "product":"Jewellery with a Rwandan twist",
+    "export_to":null,
+    "website":"www.inzuki.com",
+    "net_price":69638
+  },
+  {
+    "company_name":"Made in Kigali",
+    "product":"Clothes",
+    "export_to":"USA",
+    "website":"www.madeinkigali.rw",
+    "net_price":83666
+  },
+  {
+    "company_name":"Made in Kigali",
+    "product":"Clothes",
+    "export_to":"UK",
+    "website":"www.madeinkigali.rw",
+    "net_price":95067
+  },
+  {
+    "company_name":"MIND QUEST Ltd",
+    "product":"Bags",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":77215
+  },
+  {
+    "company_name":"Moshions",
+    "product":"garments",
+    "export_to":null,
+    "website":"https:\/\/moshions.rw\/",
+    "net_price":79042
+  },
+  {
+    "company_name":"RENGERA AGASEKE Ltd",
+    "product":"Baskets Handcrafts",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":23284
+  },
+  {
+    "company_name":"Rugwiza Company",
+    "product":"Clothes",
+    "export_to":"Tanzania",
+    "website":null,
+    "net_price":82789
+  },
+  {
+    "company_name":"RWANDA BASKET Company",
+    "product":"Handcrafts",
+    "export_to":"USA",
+    "website":null,
+    "net_price":94664
+  },
+  {
+    "company_name":"Rwanda Clothing",
+    "product":"Clothes",
+    "export_to":null,
+    "website":"www.rwandaclothing.com",
+    "net_price":71389
+  },
+  {
+    "company_name":"SONGA DESIGNS RWANDA LTD",
+    "product":"Handcrafts Baskets",
+    "export_to":"USA",
+    "website":null,
+    "net_price":19435
+  },
+  {
+    "company_name":"UMUCYO HANDCRAFT SALES COMPANY (U.H)",
+    "product":"Handcrafts",
+    "export_to":"China",
+    "website":null,
+    "net_price":64340
+  },
+  {
+    "company_name":"URUMURI HANDCRAFT LTD",
+    "product":"Handcrafts",
+    "export_to":"China",
+    "website":null,
+    "net_price":54078
+  },
+  {
+    "company_name":"UZURI K&Y DESIGNS Ltd",
+    "product":"Fantasy Jewels in Wax and Pearls",
+    "export_to":"France",
+    "website":null,
+    "net_price":88832
+  },
+  {
+    "company_name":"RWACOF EXPORTS LTD",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":"harrison.koch@sucafina.com ",
+    "net_price":61293
+  },
+  {
+    "company_name":"RWACOF EXPORTS LTD",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":"harrison.koch@sucafina.com ",
+    "net_price":88781
+  },
+  {
+    "company_name":"RWACOF EXPORTS LTD",
+    "product":"Coffee",
+    "export_to":"Asia (via Dar es Salaam & Mombasa ports)",
+    "website":"harrison.koch@sucafina.com ",
+    "net_price":70403
+  },
+  {
+    "company_name":"COFFEE BUSINESS CENTER",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":"i.rwagasana@coffeb.com ",
+    "net_price":39124
+  },
+  {
+    "company_name":"COFFEE BUSINESS CENTER",
+    "product":"Coffee",
+    "export_to":"Asia",
+    "website":"i.rwagasana@coffeb.com ",
+    "net_price":53919
+  },
+  {
+    "company_name":"COFFEE BUSINESS CENTER",
+    "product":"Coffee",
+    "export_to":"Middle East",
+    "website":"i.rwagasana@coffeb.com ",
+    "net_price":45247
+  },
+  {
+    "company_name":"UNGUKA MUHINZI LTD",
+    "product":"Coffee",
+    "export_to":"Australia",
+    "website":"jeremieiyakaremye@yahoo.com",
+    "net_price":72752
+  },
+  {
+    "company_name":"UNGUKA MUHINZI LTD",
+    "product":"Coffee",
+    "export_to":"Canada",
+    "website":"jeremieiyakaremye@yahoo.com",
+    "net_price":66573
+  },
+  {
+    "company_name":"UNGUKA MUHINZI LTD",
+    "product":"Coffee",
+    "export_to":"South Korea",
+    "website":"jeremieiyakaremye@yahoo.com",
+    "net_price":69101
+  },
+  {
+    "company_name":"UNGUKA MUHINZI LTD",
+    "product":"Coffee",
+    "export_to":"Malaysia",
+    "website":"jeremieiyakaremye@yahoo.com",
+    "net_price":36646
+  },
+  {
+    "company_name":"UNGUKA MUHINZI LTD",
+    "product":"Coffee",
+    "export_to":"UK",
+    "website":"jeremieiyakaremye@yahoo.com",
+    "net_price":33049
+  },
+  {
+    "company_name":"UNGUKA MUHINZI LTD",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":"jeremieiyakaremye@yahoo.com",
+    "net_price":89605
+  },
+  {
+    "company_name":"RWASHOSCCO LTD",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":"info@rwashoscco.com ",
+    "net_price":78385
+  },
+  {
+    "company_name":"RWASHOSCCO LTD",
+    "product":"Coffee",
+    "export_to":"Europe (notably UK",
+    "website":"info@rwashoscco.com ",
+    "net_price":50158
+  },
+  {
+    "company_name":"RWASHOSCCO LTD",
+    "product":"Coffee",
+    "export_to":"Belgium)",
+    "website":"info@rwashoscco.com ",
+    "net_price":75417
+  },
+  {
+    "company_name":"RWASHOSCCO LTD",
+    "product":"Coffee",
+    "export_to":"Asia",
+    "website":"info@rwashoscco.com ",
+    "net_price":33289
+  },
+  {
+    "company_name":"GREATER INTERNATIONAL GRAIN CO. LTD",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":"mwamiesther@yahoo.com",
+    "net_price":19823
+  },
+  {
+    "company_name":"GREATER INTERNATIONAL GRAIN CO. LTD",
+    "product":"Coffee",
+    "export_to":"Middle East",
+    "website":"mwamiesther@yahoo.com",
+    "net_price":70160
+  },
+  {
+    "company_name":"COOPAC",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":" contact@coopac.com ",
+    "net_price":51975
+  },
+  {
+    "company_name":"COOPAC",
+    "product":"Coffee",
+    "export_to":"Germany",
+    "website":" contact@coopac.com ",
+    "net_price":19540
+  },
+  {
+    "company_name":"COOPAC",
+    "product":"Coffee",
+    "export_to":"Belgium",
+    "website":" contact@coopac.com ",
+    "net_price":26364
+  },
+  {
+    "company_name":"COOPAC",
+    "product":"Coffee",
+    "export_to":"Japan",
+    "website":" contact@coopac.com ",
+    "net_price":14611
+  },
+  {
+    "company_name":"ENAS (ETS NKUBILI ALFRED AND SONS)",
+    "product":"Coffee",
+    "export_to":"Regional trade (East Africa)",
+    "website":null,
+    "net_price":37663
+  },
+  {
+    "company_name":"ENAS (ETS NKUBILI ALFRED AND SONS)",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":null,
+    "net_price":61991
+  },
+  {
+    "company_name":"CAFERWA LTD",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":" info@caferwa.com ",
+    "net_price":67679
+  },
+  {
+    "company_name":"CAFERWA LTD",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":" info@caferwa.com ",
+    "net_price":40977
+  },
+  {
+    "company_name":"CAFERWA LTD",
+    "product":"Coffee",
+    "export_to":"Asia",
+    "website":" info@caferwa.com ",
+    "net_price":59115
+  },
+  {
+    "company_name":"MISOZI COFFEE COMPANY",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":"misozicoffee20@gmail.com ",
+    "net_price":98223
+  },
+  {
+    "company_name":"MISOZI COFFEE COMPANY",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":"misozicoffee20@gmail.com ",
+    "net_price":70890
+  },
+  {
+    "company_name":"LAND OF A THOUSAND HILLS COFFEE",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":" lisa@drinkcoffeedogood.com",
+    "net_price":76387
+  },
+  {
+    "company_name":"LAND OF A THOUSAND HILLS COFFEE",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":" lisa@drinkcoffeedogood.com",
+    "net_price":28071
+  },
+  {
+    "company_name":"GREENLAND COFFEE EXPORTERS",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":null,
+    "net_price":69275
+  },
+  {
+    "company_name":"GREENLAND COFFEE EXPORTERS",
+    "product":"Coffee",
+    "export_to":"Asia",
+    "website":null,
+    "net_price":82369
+  },
+  {
+    "company_name":"RWANDA PROFESSIONAL DEALER",
+    "product":"Coffee",
+    "export_to":"Regional trade",
+    "website":null,
+    "net_price":21938
+  },
+  {
+    "company_name":"NOVA COFFEE LTD",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":" amukamushinja@yahoo.fr",
+    "net_price":45195
+  },
+  {
+    "company_name":"NOVA COFFEE LTD",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":" amukamushinja@yahoo.fr",
+    "net_price":14000
+  },
+  {
+    "company_name":"GASHARU COFFEE LTD",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":"gasharucoffee@gmail.com ",
+    "net_price":80588
+  },
+  {
+    "company_name":"GASHARU COFFEE LTD",
+    "product":"Coffee",
+    "export_to":"UK",
+    "website":"gasharucoffee@gmail.com ",
+    "net_price":48304
+  },
+  {
+    "company_name":"GASHARU COFFEE LTD",
+    "product":"Coffee",
+    "export_to":"Germany",
+    "website":"gasharucoffee@gmail.com ",
+    "net_price":79449
+  },
+  {
+    "company_name":"IMPEXCOR LTD",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":"ernestmwu@yahoo.fr",
+    "net_price":92986
+  },
+  {
+    "company_name":"IMPEXCOR LTD",
+    "product":"Coffee",
+    "export_to":"Asia",
+    "website":"ernestmwu@yahoo.fr",
+    "net_price":99643
+  },
+  {
+    "company_name":"RWANDA TRADING COMPANY",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":" jj@rwandatc.com ",
+    "net_price":30764
+  },
+  {
+    "company_name":"RWANDA TRADING COMPANY",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":" jj@rwandatc.com ",
+    "net_price":96027
+  },
+  {
+    "company_name":"C.DORMAN RWANDA LTD",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":" gianfranco.piva@dormanscoffee.com ",
+    "net_price":48494
+  },
+  {
+    "company_name":"C.DORMAN RWANDA LTD",
+    "product":"Coffee",
+    "export_to":"Middle East",
+    "website":" gianfranco.piva@dormanscoffee.com ",
+    "net_price":13373
+  },
+  {
+    "company_name":"CONVINIENT GENERAL BUSINESS Ltd",
+    "product":"Coffee",
+    "export_to":"Regional trade",
+    "website":null,
+    "net_price":22161
+  },
+  {
+    "company_name":"KIVU BELT COFFEE LTD",
+    "product":"Coffee",
+    "export_to":"USA",
+    "website":" claudine.kantengwa@kivubeltcoffee.com",
+    "net_price":37350
+  },
+  {
+    "company_name":"KIVU BELT COFFEE LTD",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":" claudine.kantengwa@kivubeltcoffee.com",
+    "net_price":35351
+  },
+  {
+    "company_name":"MICOF",
+    "product":"Coffee",
+    "export_to":"Europe",
+    "website":" pmunyura@gmail.com",
+    "net_price":98668
+  },
+  {
+    "company_name":"MICOF",
+    "product":"Coffee",
+    "export_to":"Asia",
+    "website":" pmunyura@gmail.com",
+    "net_price":25305
+  },
+  {
+    "company_name":"GIC",
+    "product":"Coffee",
+    "export_to":"Regional trade",
+    "website":" gatsk@gmail.com",
+    "net_price":85353
+  },
+  {
+    "company_name":"East African Tea Investment Ltd",
+    "product":"Tea",
+    "export_to":"Pakistan",
+    "website":null,
+    "net_price":86797
+  },
+  {
+    "company_name":"East African Tea Investment Ltd",
+    "product":"Tea",
+    "export_to":"UK",
+    "website":null,
+    "net_price":75953
+  },
+  {
+    "company_name":"East African Tea Investment Ltd",
+    "product":"Tea",
+    "export_to":"Egypt (via Mombasa Auction)",
+    "website":null,
+    "net_price":67458
+  },
+  {
+    "company_name":"Silverback Tea Co. Ltd",
+    "product":"Tea",
+    "export_to":"UK",
+    "website":" silverbacktea.com \/ info@silverbacktea.com",
+    "net_price":30358
+  },
+  {
+    "company_name":"Silverback Tea Co. Ltd",
+    "product":"Tea",
+    "export_to":"UAE",
+    "website":" silverbacktea.com \/ info@silverbacktea.com",
+    "net_price":13267
+  },
+  {
+    "company_name":"Silverback Tea Co. Ltd",
+    "product":"Tea",
+    "export_to":"Kenya",
+    "website":" silverbacktea.com \/ info@silverbacktea.com",
+    "net_price":92745
+  },
+  {
+    "company_name":"Silverback Tea Co. Ltd",
+    "product":"Tea",
+    "export_to":"Online platforms (DUBUY",
+    "website":" silverbacktea.com \/ info@silverbacktea.com",
+    "net_price":99588
+  },
+  {
+    "company_name":"Silverback Tea Co. Ltd",
+    "product":"Tea",
+    "export_to":"MyKibo)",
+    "website":" silverbacktea.com \/ info@silverbacktea.com",
+    "net_price":48513
+  },
+  {
+    "company_name":"Rwanda Mountain Tea",
+    "product":"Tea",
+    "export_to":"UK",
+    "website":"rwandamountaintea.com \/ info@rwandamountaintea.com",
+    "net_price":36092
+  },
+  {
+    "company_name":"Rwanda Mountain Tea",
+    "product":"Tea",
+    "export_to":"Germany",
+    "website":"rwandamountaintea.com \/ info@rwandamountaintea.com",
+    "net_price":21338
+  },
+  {
+    "company_name":"Rwanda Mountain Tea",
+    "product":"Tea",
+    "export_to":"China",
+    "website":"rwandamountaintea.com \/ info@rwandamountaintea.com",
+    "net_price":10412
+  },
+  {
+    "company_name":"Rwanda Mountain Tea",
+    "product":"Tea",
+    "export_to":"Kenya",
+    "website":"rwandamountaintea.com \/ info@rwandamountaintea.com",
+    "net_price":17543
+  },
+  {
+    "company_name":"Tea Importers",
+    "product":"Tea",
+    "export_to":"USA",
+    "website":"teaimporters.com \/ info@teaimporters.com",
+    "net_price":43496
+  },
+  {
+    "company_name":"Tea Importers",
+    "product":"Tea",
+    "export_to":"global specialty buyers",
+    "website":"teaimporters.com \/ info@teaimporters.com",
+    "net_price":70692
+  },
+  {
+    "company_name":"Karongi Tea Company",
+    "product":"Tea",
+    "export_to":"Kenya",
+    "website":null,
+    "net_price":99084
+  },
+  {
+    "company_name":"Karongi Tea Company",
+    "product":"Tea",
+    "export_to":"Tanzania",
+    "website":null,
+    "net_price":54425
+  },
+  {
+    "company_name":"Karongi Tea Company",
+    "product":"Tea",
+    "export_to":"East Africa",
+    "website":null,
+    "net_price":48756
+  },
+  {
+    "company_name":"Mushubi Tea Company",
+    "product":"Tea",
+    "export_to":"Pakistan",
+    "website":null,
+    "net_price":28888
+  },
+  {
+    "company_name":"Mushubi Tea Company",
+    "product":"Tea",
+    "export_to":"UK",
+    "website":null,
+    "net_price":45735
+  },
+  {
+    "company_name":"Mushubi Tea Company",
+    "product":"Tea",
+    "export_to":"China (via Mombasa Auction)",
+    "website":null,
+    "net_price":57295
+  },
+  {
+    "company_name":"Muganza-Kivu Tea Company",
+    "product":"Tea",
+    "export_to":"Pakistan",
+    "website":null,
+    "net_price":93042
+  },
+  {
+    "company_name":"Muganza-Kivu Tea Company",
+    "product":"Tea",
+    "export_to":"UK",
+    "website":null,
+    "net_price":95999
+  },
+  {
+    "company_name":"Muganza-Kivu Tea Company",
+    "product":"Tea",
+    "export_to":"Egypt (auction-based)",
+    "website":null,
+    "net_price":27955
+  },
+  {
+    "company_name":"Cyato Tea Company Ltd",
+    "product":"Tea",
+    "export_to":"UK",
+    "website":null,
+    "net_price":47841
+  },
+  {
+    "company_name":"Cyato Tea Company Ltd",
+    "product":"Tea",
+    "export_to":"China",
+    "website":null,
+    "net_price":80640
+  },
+  {
+    "company_name":"Cyato Tea Company Ltd",
+    "product":"Tea",
+    "export_to":"Pakistan",
+    "website":null,
+    "net_price":75510
+  },
+  {
+    "company_name":"Unilever",
+    "product":"Tea",
+    "export_to":"UK",
+    "website":"unilever.com",
+    "net_price":44911
+  },
+  {
+    "company_name":"Unilever",
+    "product":"Tea",
+    "export_to":"Netherlands",
+    "website":"unilever.com",
+    "net_price":69031
+  },
+  {
+    "company_name":"Unilever",
+    "product":"Tea",
+    "export_to":"South Africa",
+    "website":"unilever.com",
+    "net_price":98726
+  },
+  {
+    "company_name":"Elegant Trading Solution",
+    "product":"Tea",
+    "export_to":"East African regional markets",
+    "website":null,
+    "net_price":17357
+  },
+  {
+    "company_name":"Kabizu Business Group",
+    "product":"Tea",
+    "export_to":"Belgium",
+    "website":null,
+    "net_price":42479
+  },
+  {
+    "company_name":"Kabizu Business Group",
+    "product":"Tea",
+    "export_to":"Europe",
+    "website":null,
+    "net_price":71476
+  }
+]
