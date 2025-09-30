@@ -222,12 +222,12 @@ function Home() {
         <h1 className="text-green-700 font-bold border-r-3 pr-4 border-r-green-600">
           Support Links
         </h1>
-        <div className="flex items-center flex-wrap justify-evenly gap-4 text-sm">
+        <div className="flex items-center justify-evenly gap-4 text-sm">
           {QuickLinks.map((item, idx) => (
             <Link
               key={idx}
               href={item.link}
-              className="py-2 px-8 font-bold w-full border-b-3 border-b-green-600 hover:bg-green-100 rounded duration-300 transition-colors"
+              className="py-2 px-4 font-bold w-full border-b-3 border-b-green-600 hover:bg-green-100 rounded duration-300 transition-colors"
             >
               <span>{item.comp}</span>
             </Link>
