@@ -68,8 +68,8 @@ function Home() {
   });
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col justify-between">
-      <div className="relative flex flex-col items-center justify-center space-y-8 w-full  bg-gray-50 px-4 py-8 ">
+    <div className="min-h-screen bg-gray-50 flex flex-col justify-center items-center py-8 space-y-8">
+      <div className="relative flex flex-col items-center justify-center space-y-8 w-full h-full bg-gray-50 px-4 py-8 ">
         {/* Header */}
         <div className="bg-gray-50 w-full sticky top-0 z-40 flex items-center justify-center ">
           <div className=" flex flex-col items-center justify-center w-full max-w-4xl space-y-2 pt-6">
@@ -252,7 +252,9 @@ function Home() {
           <p className="text-gray-500 mt-4">No results found.</p>
         )}
       </div>
-      {/* Support Links */}
+
+      {/* Support Links 
+
       <div className="bg-blue-900 text-white flex items-start justify-evenly flex-wrap gap-4  shadow p-8 rounded space-x-4 w-full mx-auto">
         <div>
           <h1 className=" font-bold">Support Links</h1>
@@ -288,6 +290,7 @@ function Home() {
           </div>
         </div>
       </div>
+   */}
     </div>
   );
 }
