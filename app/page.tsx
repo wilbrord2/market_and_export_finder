@@ -169,10 +169,11 @@ function Home() {
                       <td className="border p-2">{item.export_to || "N/A"}</td>
                       <td className="border p-2 text-sm">
                         {item?.website?.startsWith("www.") ||
-                        item?.website?.endsWith(".com") ? (
+                        item?.website?.endsWith(".com") ||
+                        item?.website?.includes(".com") ? (
                           <Link
                             target="_blank"
-                            href={`${item.website}`}
+                            href={`https://${item.website}`}
                             className="hover:underline text-blue-600 text-sm"
                           >
                             {item.website}
